@@ -18,7 +18,7 @@ spec:
       mountPath: /tmp/git
     env:
     - name: GIT_SYNC_REPO
-      value: https://github.com/nigelpoulton/ps-sidecar.git
+      value: https://github.com/bravmi/ps-sidecar.git
     - name: GIT_SYNC_BRANCH
       value: master
     - name: GIT_SYNC_DEPTH
